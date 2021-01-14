@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "tOzG1nMisfkqK6jzKCa+bMs4QKWcJlc6NRr9lt6+mcGLUYaGN6fWrMvs0I0xRNngsOGw0NtBOzl3Uh2APtfl4w==",
+  "success": true,
+  "projectFilePath": "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_Implementando_sua_stack_de_testes_de_unidade_e_integrados_em_um_projeto_NET_de_Crowdfunding/desafio_Implementando_sua_stack_de_testes_de_unidade_e_integrados_em_um_projeto_NET_de_Crowdfunding/src/Vaquinha.Domain/Vaquinha.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/wevertondionisio/.nuget/packages/fluentvalidation/8.6.2/fluentvalidation.8.6.2.nupkg.sha512",
+    "/Users/wevertondionisio/.nuget/packages/fluentvalidation.aspnetcore/8.6.2/fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "/Users/wevertondionisio/.nuget/packages/fluentvalidation.dependencyinjectionextensions/8.6.2/fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+    "/Users/wevertondionisio/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/wevertondionisio/.nuget/packages/polly/7.2.1/polly.7.2.1.nupkg.sha512",
+    "/Users/wevertondionisio/.nuget/packages/restsharp/106.10.1/restsharp.106.10.1.nupkg.sha512",
+    "/Users/wevertondionisio/.nuget/packages/system.componentmodel.annotations/4.4.1/system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
